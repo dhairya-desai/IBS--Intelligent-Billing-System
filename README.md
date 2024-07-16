@@ -28,4 +28,4 @@ Database: MySQL
 
 For any inquiries or support, please contact at:
 
-Email: dhairyadesai230@divyachem.com
+Email: dhairyadesai230@gmail.com
