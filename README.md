@@ -21,7 +21,7 @@ Database: MySQL
 ![alt text](signup.png)
 ![alt text](template.png)
 ![alt text](invoice.png)
-![alt text](product_list.png)
+![alt text](product.png)
 ![alt text](reports.png)
 
 ## Contact 
